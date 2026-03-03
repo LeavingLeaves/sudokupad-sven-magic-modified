@@ -4,7 +4,7 @@
 // @version      0.10
 // @description  Add a button that resolves all singles in SudokuPad
 // @author       Chameleon (modified by Leaving Leaves)
-// @updateURL    https://github.com/yusitnikov/sudokupad-sven-magic/raw/main/sudokupad-sven-magic.user.js
+// @updateURL    https://github.com/LeavingLeaves/sudokupad-sven-magic/raw/main/sudokupad-sven-magic.user.js
 // @match        https://crackingthecryptic.com/*
 // @match        https://*.crackingthecryptic.com/*
 // @match        https://sudokupad.app/*
