@@ -1,4 +1,4 @@
-# SudokuPad Sven Magic
+# SudokuPad Sven Magic Modified
 Userscript to add a button that resolves all singles in SudokuPad (Pressing Q also works)
 The "[Naked Candidates](https://www.sudokuwiki.org/Naked_Candidates)" and "[Hidden Candidates](https://www.sudokuwiki.org/Hidden_Candidates)" strategies are also implemented.
 The basic deduction to some common sudoku variant clues are also implemented. They includes: Killer Cage, Kropki Dot, XV, (Slow) Thermometer, German Whisper, Dutch Whisper, Renban Line, Parity Line, Quadruples, Global Entropy, Dutch Flat Mates. Notice that there isn't a consistent way to recognize the variant clues, and now it's detected heavily based on the common appearance of those clues (i.e. German Whisper is commonly green line), therefore it's possible to make wrong deduction, so it's turned off by default. Press K to toggle the deduction of variant rules, and press L to toggle the deduction of variant line rules (since they are more likely to go wrong).
