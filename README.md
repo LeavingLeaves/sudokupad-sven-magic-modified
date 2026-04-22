@@ -20,7 +20,7 @@ Notice that there isn't a consistent way to recognize the variant clues, and now
 
 ## Installation
 - Install browser extension for running user scripts: GreaseMonkey for Firefox, TamperMonkey for Google Chrome and family
-- Install the script by going to the following link: https://github.com/LeavingLeaves/sudokupad-sven-magic/raw/main/sudokupad-sven-magic.user.js
+- Install the script by going to the following link: https://github.com/LeavingLeaves/sudokupad-sven-magic-modified/raw/main/sudokupad-sven-magic-modified.js
 
 ## Contributors
 - TheBearBoi:
