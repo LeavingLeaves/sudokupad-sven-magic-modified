@@ -1,5 +1,5 @@
 # SudokuPad Sven Magic Modified
-Userscript to add a button that resolves all singles in SudokuPad (Pressing Q also works)
+Userscript to add a button that does basic deduction in SudokuPad (Pressing Q also works)
 
 The "[Naked Candidates](https://www.sudokuwiki.org/Naked_Candidates)" and "[Hidden Candidates](https://www.sudokuwiki.org/Hidden_Candidates)" strategies are also implemented.
 
