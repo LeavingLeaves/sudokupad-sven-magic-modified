@@ -244,6 +244,7 @@ function main() {
                     for (const cage of app.currentPuzzle.cages) {
                         if (cage.style !== "killer" || cage.value === undefined) { continue; }
                         if (cage.parsedCells.some(c => getCellCandidates(c).length === 0 || c.hideclue)) { continue; }
+                        if (cage.parsedCells.length > 5) { continue; }
                         const sum = parseInt(cage.value);
                         const arr = cage.parsedCells.map(c => getCellCandidates(c));
                         const getCombinations = (arrays, n) =>
